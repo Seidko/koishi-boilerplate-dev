@@ -1,5 +1,5 @@
 {
-  "name": "production",
+  "name": "@seidko/koishi-boilerplate-dev",
   "version": "0.0.0",
   "private": true,
   "files": [
